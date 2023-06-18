@@ -1,6 +1,3 @@
-import exception.WrongLoginException;
-import exception.WrongPasswordException;
-
 public class Main {
 
     private static final String VALIDATE_PATTERN = "^[a-zA-Z0-9_]+$";
